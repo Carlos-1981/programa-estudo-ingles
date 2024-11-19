@@ -1,4 +1,4 @@
-# Projeto de Estudo de Inglês com Crianças
+# Inglês com Legendas: Um Projeto Tecnológico e Educacional
 
 Este projeto é uma ferramenta para ajudar crianças a estudar inglês através de séries com legendas.
 
